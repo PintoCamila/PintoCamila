@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-<br><br>My name is Camila. I'm a Digital bard, Videogame enthusiast, and junior Full Stack Developer<br><br>
+<br><br>My name is Camila - Digital bard, Videogame enthusiast, and junior Full Stack Developer<br><br>
 <br><br>ex Code Cadet @ Code for All_<br><br>
 
 <br><br>Currently looking for a challanging and exciting opportunity in the world of Coding!<br><br>
